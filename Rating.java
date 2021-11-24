@@ -1,5 +1,5 @@
 package ass1_software2;
-
+//this class for rating drivers
 public abstract class Rating
  {
 	
